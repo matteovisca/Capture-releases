@@ -2,5 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Capture</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 06 Oct 2026 20:44:21 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Capture 0.1.0</p>
+<p>First release: screenshots, vector annotations, OCR and screen recording.</p>
+<p>Prima versione: screenshot, annotazioni vettoriali, OCR e registrazione dello schermo.</p>
+]]></description>
+            <enclosure url="https://github.com/matteovisca/Capture-releases/releases/download/v0.1.0/Capture-0.1.0.dmg" length="3479418" type="application/octet-stream" sparkle:edSignature="cDl0F5JskrPg0Z2PIOgIfcjuSZbVF9dPfhVbrpFSYtcu6k9B3oF4oH2b922MNUee7E6r8JVMGVqC8WAniUKuBA=="/>
+        </item>
     </channel>
 </rss>
